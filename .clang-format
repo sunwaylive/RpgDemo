@@ -1,0 +1,16 @@
+BasedOnStyle: Google
+UseTab: Never
+IndentWidth: 4
+TabWidth: 4
+#BreakBeforeBraces: Attach
+BreakBeforeBraces: Allman
+IndentCaseLabels: true
+ColumnLimit: 120
+AccessModifierOffset: -4
+BinPackArguments: false
+BinPackParameters: false
+AlignTrailingComments: true
+AlignAfterOpenBracket: DontAlign
+AllowAllArgumentsOnNextLine: false
+AllowAllParametersOfDeclarationOnNextLine: false
+BreakConstructorInitializers: BeforeComma
